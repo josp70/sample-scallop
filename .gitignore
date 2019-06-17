@@ -10,3 +10,14 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+.settings/
+.project
+.classpath
+
+.vscode/
+.bloop/sample-scallop.json
+.bloop/sample-scallop-test.json
+.metals/metals.log
+.metals/metals.h2.db
+.metals/metals.lock.db
